@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en" ng-app="gameApp">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Database</title>
+    <link rel="stylesheet" href="css/main.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+    <script src="https://cdn.rawgit.com/sroze/ngInfiniteScroll/1.0.0/build/ng-infinite-scroll.js"></script>
+    <script src="js/gameController.js"></script>
+</head>
+<body ng-controller="gameController">
+
+<div class="main-container">
+    <!-- Left sidebar -->
+    <div class="left-sidebar">
+        <h1>Game database</h1>
+        <div class="search">
+            <input type="text" ng-model="searchText" placeholder="Search...">
+        </div>
+        <!-- Add dropdowns and filters here -->
+    </div>
+
+    <!-- Game cards section -->
+    <div class="game-cards-container" infinite-scroll="loadMore()" infinite-scroll-distance="1">
+        <div class="game-card" ng-repeat="game in games | filter:searchText">
+            <div class="game-info">
+                <h3>{{game.title}}</h3>
+                <h4>{{game.developer}}</h4>
+                <p>{{game.release_date}}</p>
+                <p>{{game.genre}}</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
