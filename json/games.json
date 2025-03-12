@@ -1,27 +1,9 @@
 {
   "games": [
     {
-      "title": "The Witcher 3: Wild Hunt",
-      "developer": "CD Projekt Red",
-      "release_date": "2015-05-19",
-      "genre": "Role-playing, Action"
-    },
-    {
-      "title": "Minecraft",
-      "developer": "Mojang Studios",
-      "release_date": "2011-11-18",
-      "genre": "Sandbox, Survival"
-    },
-    {
       "title": "Grand Theft Auto V",
       "developer": "Rockstar North",
       "release_date": "2013-09-17",
-      "genre": "Action-adventure"
-    },
-    {
-      "title": "The Legend of Zelda: Breath of the Wild",
-      "developer": "Nintendo",
-      "release_date": "2017-03-03",
       "genre": "Action-adventure"
     },
     {
@@ -35,24 +17,6 @@
       "developer": "Rockstar Games",
       "release_date": "2018-10-26",
       "genre": "Action-adventure"
-    },
-    {
-      "title": "Dark Souls III",
-      "developer": "FromSoftware",
-      "release_date": "2016-04-12",
-      "genre": "Action RPG"
-    },
-    {
-      "title": "Fortnite",
-      "developer": "Epic Games",
-      "release_date": "2017-09-26",
-      "genre": "Battle Royale, Survival"
-    },
-    {
-      "title": "The Elder Scrolls V: Skyrim",
-      "developer": "Bethesda Game Studios",
-      "release_date": "2011-11-11",
-      "genre": "Role-playing"
     },
     {
       "title": "Among Us",
@@ -77,12 +41,6 @@
       "developer": "Maddy Makes Games",
       "release_date": "2018-01-25",
       "genre": "Platformer"
-    },
-    {
-      "title": "Bloodborne",
-      "developer": "FromSoftware",
-      "release_date": "2015-03-24",
-      "genre": "Action RPG"
     },
     {
       "title": "The Last of Us Part II",
@@ -113,12 +71,6 @@
       "developer": "ConcernedApe",
       "release_date": "2016-02-26",
       "genre": "Simulation, RPG"
-    },
-    {
-      "title": "Sekiro: Shadows Die Twice",
-      "developer": "FromSoftware",
-      "release_date": "2019-03-22",
-      "genre": "Action-adventure"
     },
     {
       "title": "God of War (2018)",
@@ -163,22 +115,10 @@
       "genre": "Action RPG"
     },
     {
-      "title": "Tetris Effect",
-      "developer": "Monstars Inc.",
-      "release_date": "2018-11-09",
-      "genre": "Puzzle"
-    },
-    {
       "title": "Death Stranding",
       "developer": "Kojima Productions",
       "release_date": "2019-11-08",
       "genre": "Action, Adventure"
-    },
-    {
-      "title": "Fortnite",
-      "developer": "Epic Games",
-      "release_date": "2017-09-26",
-      "genre": "Battle Royale, Survival"
     },
     {
       "title": "Minecraft Dungeons",
@@ -349,12 +289,6 @@
       "genre": "Action RPG"
     },
     {
-      "title": "Cyberpunk 2077",
-      "developer": "CD Projekt Red",
-      "release_date": "2020-12-10",
-      "genre": "Action RPG"
-    },
-    {
       "title": "Sekiro: Shadows Die Twice",
       "developer": "FromSoftware",
       "release_date": "2019-03-22",
@@ -373,22 +307,10 @@
       "genre": "Action RPG"
     },
     {
-      "title": "The Last of Us Part II",
-      "developer": "Naughty Dog",
-      "release_date": "2020-06-19",
-      "genre": "Action-adventure"
-    },
-    {
       "title": "Tomb Raider (2013)",
       "developer": "Crystal Dynamics",
       "release_date": "2013-03-05",
       "genre": "Action-adventure"
-    },
-    {
-      "title": "Minecraft Dungeons",
-      "developer": "Mojang Studios",
-      "release_date": "2020-05-26",
-      "genre": "Action RPG"
     },
     {
       "title": "Apex Legends",
@@ -406,12 +328,6 @@
       "title": "Assassin's Creed Odyssey",
       "developer": "Ubisoft Quebec",
       "release_date": "2018-10-05",
-      "genre": "Action RPG"
-    },
-    {
-      "title": "Dark Souls III",
-      "developer": "FromSoftware",
-      "release_date": "2016-04-12",
       "genre": "Action RPG"
     },
     {
@@ -679,16 +595,28 @@
       "genre": "Action RPG"
     },
     {
-      "title": "Sekiro: Shadows Die Twice",
-      "developer": "FromSoftware",
-      "release_date": "2019-03-22",
-      "genre": "Action-adventure"
-    },
-    {
       "title": "Dark Souls III",
       "developer": "FromSoftware",
       "release_date": "2016-04-12",
       "genre": "Action RPG"
+    },
+    {
+      "title": "Star Stable",
+      "developer": "Star Stable Entertainment",
+      "release_date": "2011-07-01",
+      "genre": "MMORPG"
+    },
+    {
+      "title": "Phasmophobia",
+      "developer": "Kinetic Games",
+      "release_date": "2020-09-18",
+      "genre": "Horror, Co-op, Survival"
+    },
+    {
+      "title": "Party Animals",
+      "developer": "Recreate Games",
+      "release_date": "2022-09-20",
+      "genre": "Party, Multiplayer"
     }
   ]
 }
