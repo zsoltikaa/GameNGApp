@@ -72,4 +72,18 @@ angular.module("gameApp", []).controller('gameController', function($scope, $htt
         return true;
     };
 
+    $scope.filterByGenreSearchText = function(game) {
+        if (!$scope.genreSearchText) {
+            return true;
+        }
+        return game.genre.toLowerCase().includes($scope.genreSearchText.toLowerCase());
+    };
+
+    $scope.filterByDeveloperSearchText = function(game) {
+        if (!$scope.developerSearchText) {
+            return true;
+        }
+        return game.developer.toLowerCase().includes($scope.developerSearchText.toLowerCase());
+    };
+
 });
