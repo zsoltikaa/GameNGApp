@@ -62,4 +62,14 @@ angular.module("gameApp", []).controller('gameController', function($scope, $htt
         return $scope.currentDevLabels.includes(game.developer);
     }
 
+    $scope.filterGamesByDate = function(game) {
+        if ($scope.startDate && new Date(game.release_date) < new Date($scope.startDate)) {
+            return false;
+        }
+        if ($scope.endDate && new Date(game.release_date) > new Date($scope.endDate)) {
+            return false;
+        }
+        return true;
+    };
+
 });
