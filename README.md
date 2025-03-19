@@ -1,5 +1,11 @@
 # Game Database
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+  </a>
+</p>
+
 This is a video game search and filter web application that allows users to explore a collection of games. The application provides multiple filters, such as genre, developer, and release date, to help users find games that match their interests.
 
 ## Features
