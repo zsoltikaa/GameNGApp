@@ -9,7 +9,7 @@ angular.module("gameApp", []).controller('gameController', function($scope, $htt
     $scope.devLabelObjects = [];
     $scope.currentDevLabels = [];
 
-    $http.get("/assets/data/games.json?page=" + $scope.page).then(function(response) {
+    $http.get("/games.json?page=" + $scope.page).then(function(response) {
             $scope.games = $scope.games.concat(response.data.games);
             $scope.getLabelsAndDevelopers();
         },
