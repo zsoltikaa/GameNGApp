@@ -31,12 +31,6 @@
       "genre": "Action, Roguelike"
     },
     {
-      "title": "Celeste",
-      "developer": "Maddy Makes Games",
-      "release_date": "2018-01-25",
-      "genre": "Platformer"
-    },
-    {
       "title": "The Last of Us Part II",
       "developer": "Naughty Dog",
       "release_date": "2020-06-19",
@@ -47,6 +41,12 @@
       "developer": "Nintendo",
       "release_date": "2017-10-27",
       "genre": "Platformer, Adventure"
+    },
+    {
+      "title": "Detroit Become Human",
+      "developer": "Quantic Dream",
+      "release_date": "2018-05-25",
+      "genre": "Adventure"
     },
     {
       "title": "Apex Legends",
@@ -253,12 +253,6 @@
       "genre": "Action RPG"
     },
     {
-      "title": "Sekiro: Shadows Die Twice",
-      "developer": "FromSoftware",
-      "release_date": "2019-03-22",
-      "genre": "Action-adventure"
-    },
-    {
       "title": "Tetris Effect",
       "developer": "Monstars Inc.",
       "release_date": "2018-11-09",
@@ -287,6 +281,12 @@
       "developer": "Ubisoft Quebec",
       "release_date": "2018-10-05",
       "genre": "Action RPG"
+    },
+    {
+      "title": "Assassin's Creed Origins",
+      "developer": "Ubisoft Montreal",
+      "release_date": "2017-10-27",
+      "genre": "Action-adventure"
     },
     {
       "title": "Star Wars Jedi: Fallen Order",
@@ -607,12 +607,6 @@
       "genre": "Action RPG"
     },
     {
-      "title": "Nier: Automata",
-      "developer": "PlatinumGames",
-      "release_date": "2017-02-23",
-      "genre": "Action RPG"
-    },
-    {
       "title": "Destiny 2",
       "developer": "Bungie",
       "release_date": "2017-09-06",
@@ -623,12 +617,6 @@
       "developer": "Ubisoft Montreal",
       "release_date": "2019-02-15",
       "genre": "First-person shooter, Open-world"
-    },
-    {
-      "title": "Tomb Raider (2013)",
-      "developer": "Crystal Dynamics",
-      "release_date": "2013-03-05",
-      "genre": "Action-adventure"
     },
     {
       "title": "The Elder Scrolls Online",
@@ -811,12 +799,6 @@
       "genre": "Action RPG"
     },
     {
-      "title": "Celeste 2: Lani’s Trek",
-      "developer": "Maddy Makes Games",
-      "release_date": "2021-01-25",
-      "genre": "Platformer"
-    },
-    {
       "title": "Horizon Forbidden West",
       "developer": "Guerrilla Games",
       "release_date": "2022-02-18",
@@ -937,18 +919,6 @@
       "genre": "Puzzle, Platformer"
     },
     {
-      "title": "Portal 2",
-      "developer": "Valve",
-      "release_date": "2011-04-18",
-      "genre": "Puzzle, Platformer"
-    },
-    {
-      "title": "Half-Life 2",
-      "developer": "Valve",
-      "release_date": "2004-11-16",
-      "genre": "First-person shooter"
-    },
-    {
       "title": "Left 4 Dead 2",
       "developer": "Valve",
       "release_date": "2009-11-17",
@@ -959,18 +929,6 @@
       "developer": "Hopoo Games",
       "release_date": "2020-08-11",
       "genre": "Roguelike, Action"
-    },
-    {
-      "title": "Deep Rock Galactic",
-      "developer": "Ghost Ship Games",
-      "release_date": "2020-05-13",
-      "genre": "Co-op, First-person shooter"
-    },
-    {
-      "title": "Firewatch",
-      "developer": "Campo Santo",
-      "release_date": "2016-02-09",
-      "genre": "Adventure, Narrative"
     },
     {
       "title": "Journey to the Savage Planet",
@@ -1171,12 +1129,6 @@
       "genre": "Adventure, Puzzle"
     },
     {
-      "title": "The Ascent",
-      "developer": "Neon Giant",
-      "release_date": "2021-07-29",
-      "genre": "Action RPG, Cyberpunk"
-    },
-    {
       "title": "Titanfall 2",
       "developer": "Respawn Entertainment",
       "release_date": "2016-10-28",
@@ -1325,12 +1277,6 @@
       "developer": "DigixArt",
       "release_date": "2021-08-16",
       "genre": "Adventure, Narrative"
-    },
-    {
-      "title": "The Forgotten City",
-      "developer": "Modern Storyteller",
-      "release_date": "2021-07-28",
-      "genre": "Adventure, Mystery"
     },
     {
       "title": "Cocoon",
@@ -1608,6 +1554,12 @@
       "genre": "Action-adventure"
     },
     {
+      "title": "Hellblade: Senua's Sacrifice",
+      "developer": "Ninja Theory",
+      "release_date": "2017-08-08",
+      "genre": "Action-adventure"
+    },
+    {
       "title": "Silent Hill 2 Remake",
       "developer": "Bloober Team",
       "release_date": "2024-10-31",
@@ -1624,12 +1576,6 @@
       "developer": "Ubisoft",
       "release_date": "2026-03-15",
       "genre": "Action-adventure"
-    },
-    {
-      "title": "Final Fantasy XVI",
-      "developer": "Square Enix",
-      "release_date": "2023-06-22",
-      "genre": "Action RPG"
     },
     {
       "title": "Final Fantasy VII Rebirth",
@@ -1660,6 +1606,12 @@
       "developer": "Nintendo",
       "release_date": "2023-05-12",
       "genre": "Action-adventure"
+    },
+    {
+      "title": "Beyond: Two Souls",
+      "developer": "Quantic Dream",
+      "release_date": "2013-10-08",
+      "genre": "Interactive-drama, Action-adventure"
     },
     {
       "title": "Metroid Prime 4",
@@ -1720,6 +1672,12 @@
       "developer": "Game Science",
       "release_date": "2024-08-20",
       "genre": "Action RPG"
+    },
+    {
+      "title": "Heavy Rain",
+      "developer": "Quantic Dream",
+      "release_date": "2010-02-18",
+      "genre": "Interactive drama, Action-adventure"
     },
     {
       "title": "Frostpunk 2",
@@ -1840,12 +1798,6 @@
       "developer": "Acid Nerve",
       "release_date": "2021-07-20",
       "genre": "Action-adventure"
-    },
-    {
-      "title": "The Forgotten City",
-      "developer": "Modern Storyteller",
-      "release_date": "2021-07-28",
-      "genre": "Adventure, Mystery"
     },
     {
       "title": "Cris Tales",
@@ -2016,12 +1968,6 @@
       "genre": "Action-adventure"
     },
     {
-      "title": "Final Fantasy VII Rebirth",
-      "developer": "Square Enix",
-      "release_date": "2024-02-29",
-      "genre": "Action RPG"
-    },
-    {
       "title": "Alone in the Dark",
       "developer": "Pieces Interactive",
       "release_date": "2024-03-20",
@@ -2038,6 +1984,1020 @@
       "developer": "Capcom",
       "release_date": "2024-03-22",
       "genre": "Action RPG"
+    },
+    {
+      "title": "Undertale",
+      "developer": "Toby Fox",
+      "release_date": "2015-09-15",
+      "genre": "RPG"
+    },
+    {
+      "title": "Celeste",
+      "developer": "Maddy Makes Games",
+      "release_date": "2018-01-25",
+      "genre": "Platformer"
+    },
+    {
+      "title": "Stardew Valley",
+      "developer": "ConcernedApe",
+      "release_date": "2016-02-26",
+      "genre": "Simulation, RPG"
+    },
+    {
+      "title": "Cuphead",
+      "developer": "Studio MDHR",
+      "release_date": "2017-09-29",
+      "genre": "Platformer, Run and Gun"
+    },
+    {
+      "title": "Dead Cells",
+      "developer": "Motion Twin",
+      "release_date": "2018-08-07",
+      "genre": "Roguelike, Metroidvania"
+    },
+    {
+      "title": "Hades",
+      "developer": "Supergiant Games",
+      "release_date": "2020-09-17",
+      "genre": "Action, Roguelike"
+    },
+    {
+      "title": "Bastion",
+      "developer": "Supergiant Games",
+      "release_date": "2011-07-20",
+      "genre": "Action RPG"
+    },
+    {
+      "title": "Transistor",
+      "developer": "Supergiant Games",
+      "release_date": "2014-05-20",
+      "genre": "Action RPG"
+    },
+    {
+      "title": "Hyper Light Drifter",
+      "developer": "Heart Machine",
+      "release_date": "2016-03-31",
+      "genre": "Action RPG"
+    },
+    {
+      "title": "Axiom Verge",
+      "developer": "Thomas Happ Games",
+      "release_date": "2015-03-31",
+      "genre": "Action-adventure, Metroidvania"
+    },
+    {
+      "title": "Shovel Knight",
+      "developer": "Yacht Club Games",
+      "release_date": "2014-06-26",
+      "genre": "Platformer"
+    },
+    {
+      "title": "Ori and the Blind Forest",
+      "developer": "Moon Studios",
+      "release_date": "2015-03-11",
+      "genre": "Platformer, Metroidvania"
+    },
+    {
+      "title": "Ori and the Will of the Wisps",
+      "developer": "Moon Studios",
+      "release_date": "2020-03-11",
+      "genre": "Platformer, Metroidvania"
+    },
+    {
+      "title": "Gris",
+      "developer": "Nomada Studio",
+      "release_date": "2018-12-13",
+      "genre": "Platformer, Adventure"
+    },
+    {
+      "title": "Inside",
+      "developer": "Playdead",
+      "release_date": "2016-06-29",
+      "genre": "Platformer, Adventure"
+    },
+    {
+      "title": "Limbo",
+      "developer": "Playdead",
+      "release_date": "2010-07-21",
+      "genre": "Platformer, Adventure"
+    },
+    {
+      "title": "The Binding of Isaac: Rebirth",
+      "developer": "Nicalis",
+      "release_date": "2014-11-04",
+      "genre": "Roguelike, Dungeon Crawler"
+    },
+    {
+      "title": "Slay the Spire",
+      "developer": "MegaCrit",
+      "release_date": "2019-01-23",
+      "genre": "Roguelike, Deck-building"
+    },
+    {
+      "title": "Hollow Knight: Silksong",
+      "developer": "Team Cherry",
+      "release_date": "TBD",
+      "genre": "Action-adventure, Metroidvania"
+    },
+    {
+      "title": "Katana ZERO",
+      "developer": "Askiisoft",
+      "release_date": "2019-04-18",
+      "genre": "Action, Platformer"
+    },
+    {
+      "title": "Celeste 2: Lani’s Trek",
+      "developer": "Maddy Makes Games",
+      "release_date": "2021-01-25",
+      "genre": "Platformer"
+    },
+    {
+      "title": "Spiritfarer",
+      "developer": "Thunder Lotus Games",
+      "release_date": "2020-08-18",
+      "genre": "Simulation, Adventure"
+    },
+    {
+      "title": "Tunic",
+      "developer": "Andrew Shouldice",
+      "release_date": "2022-03-16",
+      "genre": "Action-adventure"
+    },
+    {
+      "title": "Sable",
+      "developer": "Shedworks",
+      "release_date": "2021-09-23",
+      "genre": "Adventure, Exploration"
+    },
+    {
+      "title": "The Messenger",
+      "developer": "Sabotage Studio",
+      "release_date": "2018-08-30",
+      "genre": "Platformer"
+    },
+    {
+      "title": "Blasphemous",
+      "developer": "The Game Kitchen",
+      "release_date": "2019-09-10",
+      "genre": "Action-adventure, Metroidvania"
+    },
+    {
+      "title": "Darkest Dungeon",
+      "developer": "Red Hook Studios",
+      "release_date": "2016-01-19",
+      "genre": "Turn-based Strategy, Roguelike"
+    },
+    {
+      "title": "Darkest Dungeon II",
+      "developer": "Red Hook Studios",
+      "release_date": "2023-05-08",
+      "genre": "Turn-based Strategy, Roguelike"
+    },
+    {
+      "title": "Risk of Rain 2",
+      "developer": "Hopoo Games",
+      "release_date": "2020-08-11",
+      "genre": "Roguelike, Action"
+    },
+    {
+      "title": "FTL: Faster Than Light",
+      "developer": "Subset Games",
+      "release_date": "2012-09-14",
+      "genre": "Strategy, Roguelike"
+    },
+    {
+      "title": "Into the Breach",
+      "developer": "Subset Games",
+      "release_date": "2018-02-27",
+      "genre": "Strategy, Roguelike"
+    },
+    {
+      "title": "Disco Elysium",
+      "developer": "ZA/UM",
+      "release_date": "2019-10-15",
+      "genre": "RPG"
+    },
+    {
+      "title": "Night in the Woods",
+      "developer": "Infinite Fall",
+      "release_date": "2017-02-21",
+      "genre": "Adventure, Narrative"
+    },
+    {
+      "title": "Oxenfree",
+      "developer": "Night School Studio",
+      "release_date": "2016-01-15",
+      "genre": "Adventure, Horror"
+    },
+    {
+      "title": "What Remains of Edith Finch",
+      "developer": "Giant Sparrow",
+      "release_date": "2017-04-25",
+      "genre": "Adventure, Narrative"
+    },
+    {
+      "title": "The Stanley Parable",
+      "developer": "Galactic Cafe",
+      "release_date": "2013-10-17",
+      "genre": "Adventure, Walking simulator"
+    },
+    {
+      "title": "The Stanley Parable: Ultra Deluxe",
+      "developer": "Crows Crows Crows",
+      "release_date": "2022-04-27",
+      "genre": "Adventure"
+    },
+    {
+      "title": "Return of the Obra Dinn",
+      "developer": "Lucas Pope",
+      "release_date": "2018-10-18",
+      "genre": "Puzzle, Adventure"
+    },
+    {
+      "title": "Returnal",
+      "developer": "Housemarque",
+      "release_date": "2021-04-21",
+      "genre": "Third-person shooter, roguelike"
+    },
+    {
+      "title": "Papers, Please",
+      "developer": "Lucas Pope",
+      "release_date": "2013-08-08",
+      "genre": "Puzzle, Simulation"
+    },
+    {
+      "title": "Baba Is You",
+      "developer": "Hempuli",
+      "release_date": "2019-03-13",
+      "genre": "Puzzle"
+    },
+    {
+      "title": "The Witness",
+      "developer": "Thekla, Inc.",
+      "release_date": "2016-01-26",
+      "genre": "Puzzle, Adventure"
+    },
+    {
+      "title": "Gorogoa",
+      "developer": "Jason Roberts",
+      "release_date": "2017-12-14",
+      "genre": "Puzzle"
+    },
+    {
+      "title": "Monument Valley",
+      "developer": "ustwo games",
+      "release_date": "2014-04-03",
+      "genre": "Puzzle"
+    },
+    {
+      "title": "Monument Valley 2",
+      "developer": "ustwo games",
+      "release_date": "2017-06-05",
+      "genre": "Puzzle"
+    },
+    {
+      "title": "Journey",
+      "developer": "Thatgamecompany",
+      "release_date": "2012-03-13",
+      "genre": "Adventure"
+    },
+    {
+      "title": "Flower",
+      "developer": "Thatgamecompany",
+      "release_date": "2009-02-12",
+      "genre": "Adventure"
+    },
+    {
+      "title": "Abzû",
+      "developer": "Giant Squid",
+      "release_date": "2016-08-02",
+      "genre": "Adventure"
+    },
+    {
+      "title": "The Pathless",
+      "developer": "Giant Squid",
+      "release_date": "2020-11-12",
+      "genre": "Action-adventure"
+    },
+    {
+      "title": "Little Nightmares",
+      "developer": "Tarsier Studios",
+      "release_date": "2017-04-28",
+      "genre": "Horror, Platformer"
+    },
+    {
+      "title": "Little Nightmares II",
+      "developer": "Tarsier Studios",
+      "release_date": "2021-02-11",
+      "genre": "Horror, Platformer"
+    },
+    {
+      "title": "Cuphead: The Delicious Last Course",
+      "developer": "Studio MDHR",
+      "release_date": "2022-06-30",
+      "genre": "Platformer, Run and Gun"
+    },
+    {
+      "title": "Celeste: Farewell",
+      "developer": "Maddy Makes Games",
+      "release_date": "2019-09-09",
+      "genre": "Platformer"
+    },
+    {
+      "title": "Hollow Knight: Gods & Nightmares",
+      "developer": "Team Cherry",
+      "release_date": "2018-08-23",
+      "genre": "Action-adventure, Metroidvania"
+    },
+    {
+      "title": "A Short Hike",
+      "developer": "Adam Robinson-Yu",
+      "release_date": "2019-07-30",
+      "genre": "Adventure"
+    },
+    {
+      "title": "Untitled Goose Game",
+      "developer": "House House",
+      "release_date": "2019-09-20",
+      "genre": "Stealth, Puzzle"
+    },
+    {
+      "title": "Donut County",
+      "developer": "Ben Esposito",
+      "release_date": "2018-08-28",
+      "genre": "Puzzle"
+    },
+    {
+      "title": "Counter-Strike 2",
+      "developer": "Valve",
+      "release_date": "2023-08-27",
+      "genre": "Tactical first-person shooter"
+    },
+    {
+      "title": "Gris",
+      "developer": "Nomada Studio",
+      "release_date": "2018-12-13",
+      "genre": "Platformer, Adventure"
+    },
+    {
+      "title": "Sayonara Wild Hearts",
+      "developer": "Simogo",
+      "release_date": "2019-09-19",
+      "genre": "Music, Action"
+    },
+    {
+      "title": "Kentucky Route Zero",
+      "developer": "Cardboard Computer",
+      "release_date": "2020-01-28",
+      "genre": "Adventure, Narrative"
+    },
+    {
+      "title": "The Outer Wilds",
+      "developer": "Mobius Digital",
+      "release_date": "2019-05-28",
+      "genre": "Adventure, Mystery"
+    },
+    {
+      "title": "The Outer Wilds: Echoes of the Eye",
+      "developer": "Mobius Digital",
+      "release_date": "2021-09-28",
+      "genre": "Adventure, Mystery"
+    },
+    {
+      "title": "Inscryption",
+      "developer": "Daniel Mullins Games",
+      "release_date": "2021-10-19",
+      "genre": "Deck-building, Horror"
+    },
+    {
+      "title": "Loop Hero",
+      "developer": "Four Quarters",
+      "release_date": "2021-03-04",
+      "genre": "Roguelike, Strategy"
+    },
+    {
+      "title": "Chicory: A Colorful Tale",
+      "developer": "Greg Lobanov",
+      "release_date": "2021-06-10",
+      "genre": "Adventure, Puzzle"
+    },
+    {
+      "title": "The Artful Escape",
+      "developer": "Beethoven & Dinosaur",
+      "release_date": "2021-09-09",
+      "genre": "Adventure, Platformer"
+    },
+    {
+      "title": "12 Minutes",
+      "developer": "Luis Antonio",
+      "release_date": "2021-08-19",
+      "genre": "Adventure, Puzzle"
+    },
+    {
+      "title": "The Forgotten City",
+      "developer": "Modern Storyteller",
+      "release_date": "2021-07-28",
+      "genre": "Adventure, Mystery"
+    },
+    {
+      "title": "Road 96",
+      "developer": "DigixArt",
+      "release_date": "2021-08-16",
+      "genre": "Adventure, Narrative"
+    },
+    {
+      "title": "Carrion",
+      "developer": "Phobia Game Studio",
+      "release_date": "2020-07-23",
+      "genre": "Action, Horror"
+    },
+    {
+      "title": "Spiritfarer",
+      "developer": "Thunder Lotus Games",
+      "release_date": "2020-08-18",
+      "genre": "Simulation, Adventure"
+    },
+    {
+      "title": "Hades II",
+      "developer": "Supergiant Games",
+      "release_date": "TBD",
+      "genre": "Action, Roguelike"
+    },
+    {
+      "title": "Tunic",
+      "developer": "Andrew Shouldice",
+      "release_date": "2022-03-16",
+      "genre": "Action-adventure"
+    },
+    {
+      "title": "Sifu",
+      "developer": "Sloclap",
+      "release_date": "2022-02-08",
+      "genre": "Action, Beat 'em up"
+    },
+    {
+      "title": "Cult of the Lamb",
+      "developer": "Massive Monster",
+      "release_date": "2022-08-11",
+      "genre": "Roguelike, Strategy"
+    },
+    {
+      "title": "Vampire Survivors",
+      "developer": "Luca Galante",
+      "release_date": "2022-10-20",
+      "genre": "Roguelike, Action"
+    },
+    {
+      "title": "Dredge",
+      "developer": "Black Salt Games",
+      "release_date": "2023-03-30",
+      "genre": "Adventure, Fishing, Horror"
+    },
+    {
+      "title": "Cocoon",
+      "developer": "Geometric Interactive",
+      "release_date": "2023-09-29",
+      "genre": "Puzzle, Adventure"
+    },
+    {
+      "title": "Viewfinder",
+      "developer": "Sad Owl Studios",
+      "release_date": "2023-07-18",
+      "genre": "Puzzle, First-person"
+    },
+    {
+      "title": "Lethal Company",
+      "developer": "Zeekerss",
+      "release_date": "2023-10-23",
+      "genre": "Co-op, Horror"
+    },
+    {
+      "title": "Dome Keeper",
+      "developer": "Bippinbits",
+      "release_date": "2022-09-27",
+      "genre": "Roguelike, Strategy"
+    },
+    {
+      "title": "Brotato",
+      "developer": "Blobfish",
+      "release_date": "2022-09-28",
+      "genre": "Roguelike, Action"
+    },
+    {
+      "title": "Vampire Survivors: Legacy of the Moonspell",
+      "developer": "Luca Galante",
+      "release_date": "2022-12-15",
+      "genre": "Roguelike, Action"
+    },
+    {
+      "title": "Vampire Survivors: Tides of the Foscari",
+      "developer": "Luca Galante",
+      "release_date": "2023-04-13",
+      "genre": "Roguelike, Action"
+    },
+    {
+      "title": "Avowed",
+      "developer": "Obsidian Entertainment",
+      "release_date": "2024-09-15",
+      "genre": "Action RPG"
+    },
+    {
+      "title": "The Plucky Squire",
+      "developer": "All Possible Futures",
+      "release_date": "2024-06-15",
+      "genre": "Adventure, Puzzle"
+    },
+    {
+      "title": "Black Myth: Wukong",
+      "developer": "Game Science",
+      "release_date": "2024-08-20",
+      "genre": "Action RPG"
+    },
+    {
+      "title": "Star Wars: Outlaws",
+      "developer": "Massive Entertainment",
+      "release_date": "2024-08-30",
+      "genre": "Action-adventure"
+    },
+    {
+      "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "developer": "GSC Game World",
+      "release_date": "2024-09-05",
+      "genre": "Survival horror"
+    },
+    {
+      "title": "Metroid Prime 4",
+      "developer": "Retro Studios",
+      "release_date": "2024-12-01",
+      "genre": "Action-adventure"
+    },
+    {
+      "title": "The Wolf Among Us 2",
+      "developer": "Telltale Games",
+      "release_date": "2024-07-01",
+      "genre": "Narrative Adventure"
+    },
+    {
+      "title": "Routine",
+      "developer": "Lunar Software",
+      "release_date": "2024-10-31",
+      "genre": "Survival horror"
+    },
+    {
+      "title": "The Invincible",
+      "developer": "Starward Industries",
+      "release_date": "2023-11-06",
+      "genre": "Adventure, Sci-fi"
+    },
+    {
+      "title": "Dragon Age: Dreadwolf",
+      "developer": "BioWare",
+      "release_date": "2024-09-10",
+      "genre": "Action RPG"
+    },
+    {
+      "title": "The Alters",
+      "developer": "11 bit studios",
+      "release_date": "2024",
+      "genre": "Adventure, Sci-fi"
+    },
+    {
+      "title": "Frostpunk 2",
+      "developer": "11 bit studios",
+      "release_date": "2024-09-20",
+      "genre": "City-building, Survival"
+    },
+    {
+      "title": "Little Devil Inside",
+      "developer": "Neostream Interactive",
+      "release_date": "2024-11-15",
+      "genre": "Action-adventure"
+    },
+    {
+      "title": "Replaced",
+      "developer": "Sad Cat Studios",
+      "release_date": "2024-08-22",
+      "genre": "Action-adventure"
+    },
+    {
+      "title": "Decay",
+      "developer": "Shining Gate Software",
+      "release_date": "2024",
+      "genre": "Psychological Horror"
+    },
+    {
+      "title": "Silent Hill 2 Remake",
+      "developer": "Bloober Team",
+      "release_date": "2024-10-31",
+      "genre": "Survival Horror"
+    },
+    {
+      "title": "Vampire: The Masquerade - Bloodlines 2",
+      "developer": "The Chinese Room",
+      "release_date": "2024",
+      "genre": "Action RPG"
+    },
+    {
+      "title": "Pragmata",
+      "developer": "Capcom",
+      "release_date": "2024",
+      "genre": "Sci-fi, Action-adventure"
+    },
+    {
+      "title": "Clock Tower Remake",
+      "developer": "WayForward",
+      "release_date": "2024",
+      "genre": "Survival Horror, Adventure"
+    },
+    {
+      "title": "Enshrouded",
+      "developer": "Keen Games",
+      "release_date": "2024-01-24",
+      "genre": "Survival, RPG"
+    },
+    {
+      "title": "Dungeons of Hinterberg",
+      "developer": "Microbird Games",
+      "release_date": "2024",
+      "genre": "Action RPG, Puzzle"
+    },
+    {
+      "title": "Pacific Drive",
+      "developer": "Ironwood Studios",
+      "release_date": "2024-02-22",
+      "genre": "Survival, Driving"
+    },
+    {
+      "title": "Witchfire",
+      "developer": "The Astronauts",
+      "release_date": "2024",
+      "genre": "First-person shooter, Roguelike"
+    },
+    {
+      "title": "Towerborne",
+      "developer": "Stoic Studio",
+      "release_date": "2024",
+      "genre": "Action RPG"
+    },
+    {
+      "title": "Project Mugen",
+      "developer": "NetEase Games",
+      "release_date": "TBA",
+      "genre": "Open-world, Action RPG"
+    },
+    {
+      "title": "Into The Dead: Our Darkest Days",
+      "developer": "PikPok",
+      "release_date": "2024",
+      "genre": "Survival, Horror"
+    },
+    {
+      "title": "Nazralath: The Fallen World",
+      "developer": "Euclidean Studios",
+      "release_date": "TBA",
+      "genre": "Dark Fantasy, Action RPG"
+    },
+    {
+      "title": "Stray Souls",
+      "developer": "Jukai Studio",
+      "release_date": "2024",
+      "genre": "Survival Horror"
+    },
+    {
+      "title": "Gears Of War: E-Day",
+      "developer": "The Coalition, People Can Fly",
+      "release_date": "TBA",
+      "genre": "Third-person shooter"
+    },
+    {
+      "title": "Thrasher",
+      "developer": "Electric Playground",
+      "release_date": "2024",
+      "genre": "Action, Roguelike"
+    },
+    {
+      "title": "Unawake",
+      "developer": "RealityArts Studio",
+      "release_date": "2024",
+      "genre": "Action, First-person RPG"
+    },
+    {
+      "title": "Days Gone",
+      "developer": "Bend Studio",
+      "release_date": "2019-04-26",
+      "genre": "Action-adventure"
+    },
+    {
+      "title": "Atlas Fallen",
+      "developer": "Deck13 Interactive",
+      "release_date": "2024",
+      "genre": "Action RPG"
+    },
+    {
+      "title": "Ashfall",
+      "developer": "Legendary Star Studio",
+      "release_date": "2024",
+      "genre": "Post-apocalyptic, Shooter"
+    },
+    {
+      "title": "Exoprimal",
+      "developer": "Capcom",
+      "release_date": "2024",
+      "genre": "Multiplayer, Action"
+    },
+    {
+      "title": "The Casting of Frank Stone",
+      "developer": "Supermassive Games",
+      "release_date": "2024",
+      "genre": "Interactive Horror"
+    },
+    {
+      "title": "Supermarket Together",
+      "developer": "DeadDevsTellNoLies",
+      "release_date": "2024-08-09",
+      "genre": "Simulation"
+    },
+    {
+      "title": "The Rogue Prince of Persia",
+      "developer": "Ubisoft Montpellier",
+      "release_date": "2024",
+      "genre": "Roguelike, Platformer"
+    },
+    {
+      "title": "Codename: Jade",
+      "developer": "Ubisoft",
+      "release_date": "2024",
+      "genre": "Action RPG, Open-world"
+    },
+    {
+      "title": "Path of Exile 2",
+      "developer": "Grinding Gear Games",
+      "release_date": "2024",
+      "genre": "Action RPG"
+    },
+    {
+      "title": "Hyenas",
+      "developer": "Creative Assembly",
+      "release_date": "2024",
+      "genre": "Multiplayer, FPS"
+    },
+    {
+      "title": "Windblown",
+      "developer": "Motion Twin",
+      "release_date": "2024",
+      "genre": "Roguelike, Action"
+    },
+    {
+      "title": "Dreadhunter",
+      "developer": "Traptics",
+      "release_date": "2024",
+      "genre": "Top-down Shooter, Action RPG"
+    },
+    {
+      "title": "Luto",
+      "developer": "Broken Bird Games",
+      "release_date": "2024",
+      "genre": "Psychological Horror"
+    },
+    {
+      "title": "Banishers: Ghosts of New Eden",
+      "developer": "Don't Nod",
+      "release_date": "2024",
+      "genre": "Action RPG"
+    },
+    {
+      "title": "Clockwork Revolution",
+      "developer": "inXile Entertainment",
+      "release_date": "2024",
+      "genre": "Action RPG, Steampunk"
+    },
+    {
+      "title": "Sand Land",
+      "developer": "ILCA",
+      "release_date": "2024-04-25",
+      "genre": "Action RPG"
+    },
+    {
+      "title": "DokeV",
+      "developer": "Pearl Abyss",
+      "release_date": "TBA",
+      "genre": "Open-world, Adventure"
+    },
+    {
+      "title": "Eternal Strands",
+      "developer": "Yellow Brick Games",
+      "release_date": "2024",
+      "genre": "Action RPG, Fantasy"
+    },
+    {
+      "title": "Blight: Survival",
+      "developer": "Haenir Studio",
+      "release_date": "2024",
+      "genre": "Co-op, Medieval Horror"
+    },
+    {
+      "title": "Horizon: Multiplayer Project",
+      "developer": "Guerrilla Games",
+      "release_date": "TBA",
+      "genre": "Action RPG, Open-world"
+    },
+    {
+      "title": "Project Awakening",
+      "developer": "Cygames",
+      "release_date": "TBA",
+      "genre": "Action RPG, Fantasy"
+    },
+    {
+      "title": "No Rest for the Wicked",
+      "developer": "Moon Studios",
+      "release_date": "2024",
+      "genre": "Action RPG, Dark Fantasy"
+    },
+    {
+      "title": "Towerborne",
+      "developer": "Stoic Studio",
+      "release_date": "2024",
+      "genre": "Action RPG, Multiplayer"
+    },
+    {
+      "title": "Kingmakers",
+      "developer": "Arrowhead Game Studios",
+      "release_date": "2024",
+      "genre": "Action RPG, Medieval Warfare"
+    },
+    {
+      "title": "Warhammer 40,000: Space Marine 2",
+      "developer": "Saber Interactive",
+      "release_date": "2024-09-09",
+      "genre": "Third-person Shooter, Action"
+    },
+    {
+      "title": "Stormgate",
+      "developer": "Frost Giant Studios",
+      "release_date": "2024",
+      "genre": "RTS, Sci-fi"
+    },
+    {
+      "title": "Final Fantasy XIV: Dawntrail",
+      "developer": "Square Enix",
+      "release_date": "2024-07-02",
+      "genre": "MMORPG"
+    },
+    {
+      "title": "Dragon Quest XII: The Flames of Fate",
+      "developer": "Square Enix",
+      "release_date": "TBA",
+      "genre": "JRPG"
+    },
+    {
+      "title": "Persona 6",
+      "developer": "Atlus",
+      "release_date": "TBA",
+      "genre": "JRPG"
+    },
+    {
+      "title": "Metaphor: ReFantazio",
+      "developer": "Atlus",
+      "release_date": "2024-10-11",
+      "genre": "Fantasy RPG"
+    },
+    {
+      "title": "Eiyuden Chronicle: Hundred Heroes",
+      "developer": "Rabbit & Bear Studios",
+      "release_date": "2024-04-23",
+      "genre": "JRPG"
+    },
+    {
+      "title": "Another Crab’s Treasure",
+      "developer": "Aggro Crab",
+      "release_date": "2024",
+      "genre": "Soulslike, Action"
+    },
+    {
+      "title": "Wuchang: Fallen Feathers",
+      "developer": "Leenzee Games",
+      "release_date": "2024",
+      "genre": "Soulslike, Action RPG"
+    },
+    {
+      "title": "Flintlock: The Siege of Dawn",
+      "developer": "A44 Games",
+      "release_date": "2024",
+      "genre": "Action RPG, Open-world"
+    },
+    {
+      "title": "Project Ryu",
+      "developer": "Ryugukoku Studio",
+      "release_date": "TBA",
+      "genre": "Action RPG, Open-world"
+    },
+    {
+      "title": "Hellsweeper VR",
+      "developer": "Mixed Realms",
+      "release_date": "2024",
+      "genre": "VR, Action"
+    },
+    {
+      "title": "The Lost Wild",
+      "developer": "Great Ape Games",
+      "release_date": "2024",
+      "genre": "Survival Horror, Dinosaurs"
+    },
+    {
+      "title": "XDefiant",
+      "developer": "Ubisoft",
+      "release_date": "2024",
+      "genre": "Multiplayer FPS"
+    },
+    {
+      "title": "The First Descendant",
+      "developer": "Nexon",
+      "release_date": "2024",
+      "genre": "Looter Shooter, Multiplayer"
+    },
+    {
+      "title": "Synduality: Echo of Ada",
+      "developer": "Bandai Namco",
+      "release_date": "2024",
+      "genre": "Sci-fi, Mecha"
+    },
+    {
+      "title": "Ashfall",
+      "developer": "Legendary Star Studio",
+      "release_date": "2024",
+      "genre": "Post-apocalyptic, Shooter"
+    },
+    {
+      "title": "The Precinct",
+      "developer": "Fallen Tree Games",
+      "release_date": "2024",
+      "genre": "Crime, Open-world"
+    },
+    {
+      "title": "Endless Dungeon",
+      "developer": "Amplitude Studios",
+      "release_date": "2024",
+      "genre": "Roguelike, Tower Defense"
+    },
+    {
+      "title": "Myth of Empires",
+      "developer": "Angela Game",
+      "release_date": "2024",
+      "genre": "Open-world, Survival"
+    },
+    {
+      "title": "Once Human",
+      "developer": "Starry Studio",
+      "release_date": "2024",
+      "genre": "Survival, MMO"
+    },
+    {
+      "title": "Derelicts",
+      "developer": "Romain",
+      "release_date": "2024",
+      "genre": "Survival, Base-building"
+    },
+    {
+      "title": "Forever Skies",
+      "developer": "Far From Home",
+      "release_date": "2024",
+      "genre": "Survival, Sci-fi"
+    },
+    {
+      "title": "Project Haven",
+      "developer": "Code Three Fifty One",
+      "release_date": "2024",
+      "genre": "Tactical RPG, Strategy"
+    },
+    {
+      "title": "Songs of Silence",
+      "developer": "Chimera Entertainment",
+      "release_date": "2024",
+      "genre": "Turn-based Strategy"
+    },
+    {
+      "title": "Heart & Slash 2",
+      "developer": "AHEARTFULOFGAMES",
+      "release_date": "TBA",
+      "genre": "Action, Roguelike"
+    },
+    {
+      "title": "Unknown 9: Awakening",
+      "developer": "Reflector Entertainment",
+      "release_date": "2024",
+      "genre": "Action-adventure"
+    },
+    {
+      "title": "Gangs of Sherwood",
+      "developer": "Appeal Studios",
+      "release_date": "2024",
+      "genre": "Co-op, Action"
+    },
+    {
+      "title": "The Year 1000",
+      "developer": "Ubisoft",
+      "release_date": "2024",
+      "genre": "Action RPG, Historical"
     }
   ]
 }
